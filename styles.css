@@ -1,0 +1,70 @@
+.contentbox{
+    height: 100px;
+    width:100px;
+}
+#nav-bar{
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color:black;
+    margin-right: 50px;
+    display: inline-block;
+}
+#searchbox{
+    height: 34px;
+  width: 291px;
+    border:0px solid white;
+    border-right-width: 43.6px;
+    border-right-style: solid;
+    font-size: medium;
+}
+#logoo{
+    height:30px;
+    padding-top: 10px;
+}
+.logo{
+    display: inline-block;
+}
+*{
+    margin:0;
+    padding:0;
+}
+#mynad{
+    width:93%;
+    padding: 10px 50px;
+    height:600px;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color:#3465eb;
+    font-style:monospace;
+}
+#content{
+    width:100%;
+    height:700px;
+}
+footer{
+    text-align: center;
+    background-color:rgb(242, 242, 251);
+    width:100%;
+    height:300px;
+}
+.c{
+    display: inline-block;
+    height:250px;
+    width:250px;
+    border: 5px solid white;
+    padding:20px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 13px;
+    font-style: normal;
+    font-weight: bold;
+}
+#pic{
+    height: 186px;
+  width: 186px;
+  margin: 14px;
+}
